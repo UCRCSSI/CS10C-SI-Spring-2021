@@ -25,7 +25,7 @@ public:
     List() : head(nullptr), tail(nullptr) { }
     void print() const { print_(head); cout << endl; }
     void pushback(int); // Implement This
-    bool search(int);   // Implement This Using Binary Search
+    bool search(int);   // Implement This 
 };
 
 
