@@ -4,7 +4,7 @@ Let's code it and see what you think
 
 First, What is a Dummy Node? **Think up your own definition and share it with everyone else.**
 
-How do you code a Dummy Node? Go ahead and code it given this node class (fill out the comment and implement any functions):
+How do you code a Dummy Node? Go ahead and code a list given this node class (fill out the comment and implement any functions):
 ```c++
 class Node {
 private:
@@ -16,5 +16,4 @@ public:
     friend class /* List class's Name */; 
 };
 ```
-
-Now code the `InsertAfter()` function. What code can we now emit?
+Now code the `InsertAfter()` function given that we will be using a dummy node. What code can we now emit?
