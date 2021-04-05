@@ -17,3 +17,5 @@ public:
 };
 ```
 Now code the `InsertAfter()` function given that we will be using a dummy node. What code can we now emit?
+
+Now cod ethe `Remove()` function.
