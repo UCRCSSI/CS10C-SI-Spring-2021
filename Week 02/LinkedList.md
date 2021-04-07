@@ -18,4 +18,26 @@ public:
 ```
 Now code the `InsertAfter()` function given that we will be using a dummy node. What code can we now emit?
 
-Now cod ethe `Remove()` function.
+Now code the `Remove()` function.
+
+### Doubly Linked List
+What is so special about it?
+
+Go ahead and code these functions for it:
+```c++
+push_back();
+push_front();
+remove();
+insert();
+print();
+```
+
+What makes some of these function different for a doubly linked list compared to a singly linked list? (Think about it in terms of `O()`)
+
+### Circularly Linked List
+What is so special about it?
+
+What functions might be good for this?  
+What scenarios might be good for this?  
+
+Are circularly linked list bound to be a doubly? or can it be a singly?
